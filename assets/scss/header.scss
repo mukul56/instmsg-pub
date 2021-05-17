@@ -1,0 +1,38 @@
+#layout-header{
+    nav{
+        display: flex;
+        justify-content: space-between;
+        padding: 0px 10px;
+        background-color:blueviolet;
+        color: white;
+
+    }
+
+    .mini-logo{
+        p{
+            margin: 5px;
+            font-size: 1.4rem;
+            font-weight: bold;
+        }
+    }
+
+    .auth-links{
+
+
+        a:hover{
+            color: chartreuse;
+        }
+
+    }
+
+
+        a{
+            color: white;
+            text-decoration: none;
+            margin-right: 10px;
+        }
+
+
+
+
+}

@@ -1,0 +1,19 @@
+#layout-footer nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  background-color: blueviolet;
+  color: white; }
+
+#layout-footer .mini-logo p {
+  margin: 5px;
+  font-size: 1.4rem;
+  font-weight: bold; }
+
+#layout-footer .auth-links a:hover {
+  color: chartreuse; }
+
+#layout-footer a {
+  color: white;
+  text-decoration: none;
+  margin-right: 10px; }

@@ -1,0 +1,24 @@
+#home-container{
+    display: flex;
+    #feed-posts{
+        width: 70%;
+        padding: 10px;
+    }
+
+    #people-section{
+        display: flexbox;
+        width: 30%;
+        padding: 10px;
+        border-left: 1px solid lightblue;
+
+        #users{
+            padding: 5px;
+        }
+
+        #user-friend{
+            padding: 5px;
+        }
+
+
+    }
+}
